@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1766085844 source:c:\users\muhamad isya\onedrive\tubes std\tubesstd\main.cpp
+	<iostream>
+	"tugasbesar.h"
+
+1766085749 c:\users\muhamad isya\onedrive\tubes std\tubesstd\tugasbesar.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1766085749 c:\users\muhamad isya\onedrive\tubes std\tubesstd\parent.h
+	<iostream>
+
+1766085749 c:\users\muhamad isya\onedrive\tubes std\tubesstd\child.h
+	<iostream>
+
+1766086736 c:\users\muhamad isya\onedrive\tubes std\tubesstd\relasi.h
+	"child.h"
+
+1766085844 source:c:\users\muhamad isya\onedrive\tubes std\tubesstd\tugasbesar.cpp
+	"tugasbesar.h"
+
